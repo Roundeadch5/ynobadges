@@ -497,7 +497,7 @@
       "condition": "Witch efektini al. Eğer zaten aldıysan, Witch's Island'ın sonuna geri dön."
     },
     "hat_and_scarf_effect": {
-      "name": "Warmth",
+      "name": "Sıcaklık",
       "description": "Soğuk Kapma!",
       "condition": "Hat & Scarf efektini al. Eğer zaten aldıysan, Block World'e dön."
     },
@@ -1079,29 +1079,29 @@
       }
     },
     "decrepit_smile": {
-      "name": "Decrepit Smile",
-      "condition": "Interact with the shadow lady in the Decrepit Village using the Grave effect"
+      "name": "Yıpranmış Gülümseme",
+      "condition": "Decrepit Village'daki shadow lady ile Grave efektini kullanarak etkileşime geç"
     },
     "tv_room": {
-      "name": "TV Screen",
-      "description": "What channel will you watch today?",
-      "condition": "Enter the TV Room at the Highway"
+      "name": "TV Ekranı",
+      "description": "Bugün Hangi Kanalı İzleyeceksin?",
+      "condition": "Highway'deki TV Room'a gir"
     },
     "nostalgic_house": {
-      "name": "Dreamer's Home",
-      "condition": "Enter the Nostalgic House"
+      "name": "Uykucunun Evi",
+      "condition": "Nostalgic House'a gir"
     },
     "wind_turbine_plateau": {
-      "name": "Memory of the Windy Plateau",
-      "condition": "Find the tower at the Wind Turbine Plateau"
+      "name": "Windy Plateau Hatırası.",
+      "condition": "Wind Turbine Plateau'deki kuleyi bul"
     },
     "strange_being": {
       "name": "Strange Being",
-      "condition": "Threaten the strange metal being at the Polluted Swamp with the Chainsaw effect"
+      "condition": "Polluted Swamp'daki garip metal varlığı Chainsaw efekti ile tehdit et"
     },
     "01": {
       "name": "01-kun",
-      "condition": "Interact with 01-kun in Digital Forest, Bright Forest, Fluorescent Halls, Winter Valley, and Corrupted Love World",
+      "condition": "01-kun ile Digital Forest, Bright Forest, Fluorescent Halls, Winter Valley ve Corrupted Love World'de etkileşime gir",
       "checkbox": {
         "01_digital_forest_1|01_digital_forest_2": "Digital Forest",
         "01_fluorescent_halls": "Fluorescent Halls",
@@ -1112,109 +1112,109 @@
     },
     "tetrapod": {
       "name": "Tetrapod",
-      "condition": "Visit every area of Realistic Beach"
+      "condition": "Realistic Beach'in her bölgesini ziyaret et"
     },
     "stellar_graveyard": {
-      "name": "Stellar Graveyard",
-      "description": "A grave site lost in space",
-      "condition": "Reach the Stellar Mausoleum"
+      "name": "Yıldızların Mezarı",
+      "description": "Uzayda kayıp bir mezarlık",
+      "condition": "Stellar Mausoleum'a ulaş"
     },
     "cat_cemetary": {
-      "name": "Eternal Love",
-      "description": "True love never dies",
-      "condition": "Use the Glasses effect near the grey cat on the bench in the Cat Cemetery"
+      "name": "Ebedi Aşk",
+      "description": "Gerçek aşk asla ölmez",
+      "condition": "Cat Cemetery'de bankdaki gri kedinin yakının Glasses efektini kullan"
     },
     "huyure": {
       "name": "Huyure-chan",
-      "condition": "Visit Huyure-chan at the Dream Beach"
+      "condition": "Dream Beach'de Huyure-chan'ı ziyaret et"
     },
     "lobster": {
       "name": "Get Lobstered",
-      "description": "Lobster? I hardly know her...",
-      "condition": "Enter the pool at the Flooded Baths"
+      "description": "Lobster? Onu pek tanımıyorum...",
+      "condition": "Flooded Baths'deki havuza gir"
     },
     "chandelier": {
-      "name": "Old-fashioned Chandelier",
-      "condition": "Reach the Travel Hotel"
+      "name": "Eski Moda Avize",
+      "condition": "Travel Hotel'e ulaş"
     },
     "red_rock_caves": {
-      "name": "Dream of Roses",
-      "condition": "Complete the Dream of Roses event in the Red Rock Caves"
+      "name": "Güllerin Rüyası",
+      "condition": "Red Rock Caves'deki Dream of Roses olayını tamamla."
     },
     "rainbow_bird": {
-      "name": "Waterfall Bird",
-      "condition": "Use the Rainbow effect at the Lost Creek to summon the bird from Nocturnal Grove and look at it"
+      "name": "Akarsu Kuşu",
+      "condition": "Nocturnal Grove'daki kuşu çağırmak için Lost Creek'de Rainbow efektini kullan ve ona bak"
     },
     "paint": {
-      "name": "Swirly Paint",
-      "condition": "Complete the full sculpture room event in Graveyard World"
+      "name": "Girdaplı Resim",
+      "condition": "Graveyard World'deki full sculpture room olayını tamamla"
     },
     "odorika": {
-      "name": "Streetlight Dance",
-      "description": "She's got good rhythm!",
-      "condition": "Trigger Odorika's full screen dance event with the Maiko effect"
+      "name": "Sokak Lambası Dansı",
+      "description": "Sağlam ritmi var!",
+      "condition": "Odorika'nın full screen dance olayını Maiko efekti ile tetikle"
     },
     "akama": {
-      "name": "Witch Duel",
-      "description": "Tiny witch, big power",
-      "condition": "Defeat Akama in Jigsaw Puzzle World"
+      "name": "Büyücü Düellosu",
+      "description": "Küçük cadı, büyük güç",
+      "condition": "Jigsaw Puzzle World'de Akama'yı yen"
     },
     "snow": {
-      "name": "Festive Snowglobe",
-      "condition": "Pass under the structure at the Riverside Waste Facility while it's snowing"
+      "name": "Şenlikli Kar Küresi",
+      "condition": "Riverside Waste Facility'dekş yapının altından kar yağarken geç"
     },
     "streetlight_scenery": {
-      "name": "Streetlight Scenery",
-      "condition": "Reach the end of the Submerged Communications Area"
+      "name": "Sokak Lambası Manzarası",
+      "condition": "Submerged Communications Area'nın sonuna ulaş"
     },
     "akako": {
       "name": "White Scarlet Akako",
-      "condition": "Show Akako in the White Scarlet Exhibition all of the effects she likes"
+      "condition": "White Scarlet Exhibition'da Akako'ya onun sevdiği tüm efektleri göster"
     },
     "isometry": {
-      "name": "Isometric",
-      "condition": "Visit every area of Isometry World"
+      "name": "İzometrik",
+      "condition": "Isometry World'ün her bölgesini ziyaret et"
     },
     "bowling": {
-      "name": "Strike!",
-      "condition": "Dodge all the bowling ball men in the Bowling Zone and reach Bowling World"
+      "name": "Sayı!",
+      "condition": "Bowling Zone'daki tüm bowling topu adamları atlat ve Bowling World'e ulaş"
     },
     "jade": {
-      "name": "Great City of Jade",
-      "description": "\"I've heard that beyond the great blue sky, there lies a city of jade with riches beyond our imagination.\"",
-      "condition": "Visit the Jade Sky Hamlet"
+      "name": "Büyük, Yeşim Şehri",
+      "description": "\"Duydum ki bu büyük mavi gökyüzünün ardında, akla hayale sığmayacak servete sahip bir Yeşim Şehri var.\"",
+      "condition": "Jade Sky Hamlet'i ziyaret et"
     },
     "sea_star": {
-      "name": "Sea Star",
+      "name": "Deniz Yıldızı",
       "description": "Fun in the sun?",
-      "condition": "Fill the Calcarina Sea"
+      "condition": "Calcarina Sea'yı doldur"
     },
     "alien_cellar": {
-      "name": "Alien Intelligence",
-      "description": "We're afraid that we can't let you go further.",
-      "condition": "Enter the Alien Cellar"
+      "name": "Uzaylı Zekası",
+      "description": "Ne yazık ki daha ileri gitmene izin veremeyiz.",
+      "condition": "Alien Cellar'a gir"
     },
     "sea_monster": {
-      "name": "Lord of the Fluorescent Deep",
-      "description": "The lights are moving...?",
-      "condition": "Encounter the sea monster in the Neon Sea"
+      "name": "Fluorescent Deep'in Lordu",
+      "description": "Işıklar hareket mi ediyor...?",
+      "condition": "Neon Sea'deki su canavarına rastla"
     },
     "mosenite": {
       "name": "Yamato-e",
-      "description": "Passing through a bygone time",
-      "condition": "Go to Heian Era Village"
+      "description": "Geçmişin içinden geçmek",
+      "condition": "Heian Era Village'a git"
     },
     "heart": {
-      "name": "Heart of Health",
-      "condition": "Reach 100 Heart Points from vending machines (granted upon waking up)"
+      "name": "Sağlığın Kalbi",
+      "condition": "Vending machine'leri kullanarak 100 Heart Point'e ulaş (uyandığında verilir)"
     },
     "heart_2": {
-      "name": "Heart of Hope",
-      "condition": "Reach 500 Heart Points from vending machines (granted upon waking up)"
+      "name": "Umudun Kalbi",
+      "condition": "Vending machine'leri kullanarak 500 Heart Point'e ulaş (uyandığında verilir)"
     },
     "heart_3": {
-      "name": "Heart of Life",
-      "condition": "Reach 999 Heart Points from vending machines (granted upon waking up)"
+      "name": "Yaşamın Kalbi",
+      "condition": "Vending machine'leri kullanarak 999 Heart Point'e ulaş (uyandığında verilir)"
     },
     "square_ruins": {
       "name": "Submerged Memory - Luminescent Ruin",
