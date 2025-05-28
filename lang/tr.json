@@ -375,7 +375,7 @@
     },
     "docks_yume": {
       "name": "Rıhtım",
-      "condition": "Visit the Docks A and the Docks B",
+      "condition": "Docks A ve Docks B'i ziyaret et",
       "checkbox": {
         "docks_a": "Docks A",
         "docks_b": "Docks B"
@@ -429,37 +429,37 @@
       "condition": "Witch's Island'da Kasei'nin Çocuğu ile karşılaş"
     },
     "sewers_painting": {
-      "name": "Strange Markings",
-      "description": "Those are some weird pictures...",
-      "condition": "Interact with any of the drawings in the Sewers"
+      "name": "Garip İşaretler",
+      "description": "Bunlar biraz garip resimler...",
+      "condition": "Sewers'daki herhangi bir resim ile etkileşime gir"
     },
     "mafurako_block_world": {
-      "name": "Block Traveler",
-      "description": "You've been here before.",
-      "condition": "Visit every place where Mafurako can teleport you in Block World"
+      "name": "Block Seferisi",
+      "description": "Buraya gelmiştin.",
+      "condition": "Block World'de Marufako'nun seni ışınlayabileceği her yere ışınlan."
     },
     "desert_block_world": {
-      "name": "From Block to Mono",
-      "condition": "Visit White Desert A from Block World"
+      "name": "Block'dan Mono'ya",
+      "condition": "White Desert A'ya Block World'den ulaş"
     },
     "mall_underground_link": {
-      "name": "A Game of Broken Elevators",
+      "name": "Bozuk Asansörler Oyunu",
       "description": "A certain rooftop awaits your arrival.",
-      "condition": "Take the one-way trip from Underground World to the Mall"
+      "condition": "Underground World'den Mall'a tek yönlü yolculuk yap"
     },
     "crick_in_the_neck": {
-      "name": "Slept Wrong",
-      "condition": "Trigger the Crick in the Neck event"
+      "name": "Yanlış Uyudum",
+      "condition": "Crick in the Neck olayını tetikle"
     },
     "stoplight_effect": {
-      "name": "A Normal Corpse",
-      "description": "How long has this been here...?",
-      "condition": "Obtain the Stoplight effect. If you have already unlocked it, return to the end of the Road."
+      "name": "Normal Bir Ceset",
+      "description": "Bu ne zamandır burada...?",
+      "condition": "Stoplight efektini al. Eğer zaten aldıysan, yolun sonuna geri dön."
     },
     "fc_completionist": {
-      "name": "So So Retro",
-      "description": "Maybe you should get a Super FC.",
-      "condition": "Visit FC House, FC World A, FC World B, and FC Dungeon",
+      "name": "Çok Çok Nostaljik",
+      "description": "Belki bir Super FC almalısın.",
+      "condition": "FC House, FC World A, FC World B, ve FC Dungeon'ı ziyaret et.",
       "checkbox": {
         "fc_house_outside|fc_house_oni_room": "FC House",
         "fc_world_a_wilderness|fc_world_a_house_section|fc_world_a_main": "FC World A",
@@ -468,53 +468,53 @@
       }
     },
     "towel_effect": {
-      "name": "Comfy...?",
-      "description": "As long as this towel wrapping around me isn't some sort of yokai, I'll be just fine... right?",
-      "condition": "Obtain the Towel effect. If you have already unlocked it, return to the main area of Wilderness."
+      "name": "Rahat...?",
+      "description": "Beni saran bu havlu bir çeşit ruh olmadığı sürece iyi olacağım... değil mi?",
+      "condition": "Towel efektini al. Eğer zaten aldıysan, Wilderness'ın main area'sına dön."
     },
     "thunder_oni": {
-      "name": "Stormbringer",
-      "description": "I am the sky, and the sky is me!",
-      "condition": "YDense Woods A'da Oni efektini kullanarak gök gürültüsü ve şimşek açığa çıkar"
+      "name": "Fırtına Getiren",
+      "description": "Gökyüzü benim, Gökyüzü de ben!",
+      "condition": "Dense Woods A'da Oni efektini kullanarak gök gürültüsü ve şimşek açığa çıkar"
     },
     "snow_woman_effect": {
-      "name": "The Snowy Spirit",
-      "description": "This ancient spirit returns incarnated in your own body",
-      "condition": "Obtain the Snow Woman effect. If you have already unlocked it, return to Snow World."
+      "name": "Karlı Ruh",
+      "description": "Bu antik ruh, senin vücudunda hayat buldu.",
+      "condition": "Snow Woman efektini al. Eğer zaten aldıysan, Snow World'e geri dön."
     },
     "flute_effect": {
-      "name": "Floating Notes",
-      "condition": "Obtain the Flute effect. If you have already unlocked it, return to the Flute room in the Mall."
+      "name": "Uçan Notalar",
+      "condition": "Flute efektini al. Eğer zaten aldıysan, Mall'daki Flute room'a geri dön."
     },
     "midget_effect": {
-      "name": "March of the Minis",
-      "description": "We are one! We are many!",
-      "condition": "Obtain the Midget effect. If you have already unlocked it, return to Candle World."
+      "name": "Ufakların Marşı",
+      "description": "Biz biriz! Biz biniz!",
+      "condition": "Midget efektini al. Eğer zaten aldıysan, Candle World'e geri dön."
     },
     "witch_effect": {
       "name": "Yume Witchi",
-      "description": "A magical girl with an amazing, floating broom! (Note: Results may be disappointing. If dissatisfied, consider riding a bicycle.)",
-      "condition": "Obtain the Witch effect. If you have already unlocked it, return at the end of the Witch's Island."
+      "description": "Büyülü Kız ve onun harika, uçan süpürgesi! (Note: Sonuçlar hayal kırıklığına uğratabilir. Eğer tatmin olmadıysanız bisiklet sürmeyi düşünün.)",
+      "condition": "Witch efektini al. Eğer zaten aldıysan, Witch's Island'ın sonuna geri dön."
     },
     "hat_and_scarf_effect": {
-      "name": "Warmth",
-      "description": "Don't catch a cold!",
-      "condition": "Obtain the Hat & Scarf effect. If you have already unlocked it, return to Block World."
+      "name": "Sıcaklık",
+      "description": "Soğuk Kapma!",
+      "condition": "Hat & Scarf efektini al. Eğer zaten aldıysan, Block World'e dön."
     },
     "kitchen_knife_effect": {
-      "name": "Shiny Knife",
-      "description": "You can see your reflection in the blade",
-      "condition": "Obtain the Kitchen Knife effect. If you have already unlocked it, return to Dark World."
+      "name": "Parlak Bıçak",
+      "description": "Bıçakta kendi yansımanı görebiliyorsun.",
+      "condition": "Kitchen Knife efektini al. Eğer zaten aldıysan, Dark World'e dön."
     },
     "nasu_ruby": {
-      "name": "Consolation Prize",
-      "description": "A cheap award made of plastic",
-      "condition": "Score exactly 290 points in the secret mode of NASU"
+      "name": "Teselli Ödülü",
+      "description": "Plastikten yapılmış ucuz bi ödül.",
+      "condition": "NASU'nun gizli modunda tam olarak 290 puana ulaş"
     },
     "staircase_nikki": {
-      "name": "Nightmarish Descent",
-      "description": "Did you really lie on all those beds to get this? Weird",
-      "condition": "Reach Staircase of Hands from Madotsuki's Dream Room, Block World, Snow World, Candle World, and Number World",
+      "name": "Kâbus Gibi Düşüş",
+      "description": "Bunu almak için tüm o yataklarda yattın mı cidden? Garip.",
+      "condition": "Staircase of Hands'e Madotsuki's Dream Room, Block World, Snow World, Candle World ve Number World'den ulaş",
       "checkbox": {
         "staircase_hands_1": "Madotsuki's Dream Room",
         "staircase_hands_2": "Block World",
@@ -524,9 +524,9 @@
       }
     },
     "hair_effects": {
-      "name": "Bad Hair Day",
-      "description": "Why have one hairstyle when you can have four?",
-      "condition": "Obtain the Long Hair, Blonde, and Poo Hair effect. If you have already unlocked them, return where they can be found.",
+      "name": "Kötü Saç Günü",
+      "description": "Dört tane saç stili yapabilirken neden bir tanede kalasın ki?",
+      "condition": "Long Hair, Blonde ve Poo Hair efektlerini al. Eğer zaten aldıysan, bulundukları yere geri dön.",
       "checkbox": {
         "long_hair_effect": "Long Hair",
         "blonde_hair_effect": "Blonde",
@@ -537,27 +537,27 @@
   "2kki": {
     "compass": {
       "name": "Seyahat Tamamlayıcısı",
-      "condition": "Complete expeditions to 25 unique locations"
+      "condition": "25 farklı konuma olan seyahatleri tamamla"
     },
     "compass_bronze": {
       "name": "Bronz Seyahat Tamamlayıcısıt",
-      "condition": "Complete expeditions to 50 unique locations"
+      "condition": "50 farklı konuma olan seyahatleri tamamla"
     },
     "compass_silver": {
       "name": "Gümüş Seyahat Tamamlayıcısı",
-      "condition": "Complete expeditions to 100 unique locations"
+      "condition": "100 farklı konuma olan seyahatleri tamamla"
     },
     "compass_gold": {
       "name": "Altın Seyahat Tamamlayıcısı",
-      "condition": "Complete expeditions to 200 unique locations"
+      "condition": "200 farklı konuma olan seyahatleri tamamla"
     },
     "compass_platinum": {
       "name": "Platin Seyahat Tamamlayıcısı",
-      "condition": "Complete expeditions to 400 unique locations"
+      "condition": "400 farklı konuma olan seyahatleri tamamla"
     },
     "compass_diamond": {
       "name": "Elmas Seyahat Tamamlayıcısı",
-      "condition": "Complete expeditions to 800 unique locations"
+      "condition": "800 farklı konuma olan seyahatleri tamamla"
     },
     "uro_trophy_bronze": {
       "name": "Bronz Urotsuki Kupası",
@@ -1079,29 +1079,29 @@
       }
     },
     "decrepit_smile": {
-      "name": "Decrepit Smile",
-      "condition": "Interact with the shadow lady in the Decrepit Village using the Grave effect"
+      "name": "Yıpranmış Gülümseme",
+      "condition": "Decrepit Village'daki shadow lady ile Grave efektini kullanarak etkileşime geç"
     },
     "tv_room": {
-      "name": "TV Screen",
-      "description": "What channel will you watch today?",
-      "condition": "Enter the TV Room at the Highway"
+      "name": "TV Ekranı",
+      "description": "Bugün Hangi Kanalı İzleyeceksin?",
+      "condition": "Highway'deki TV Room'a gir"
     },
     "nostalgic_house": {
-      "name": "Dreamer's Home",
-      "condition": "Enter the Nostalgic House"
+      "name": "Uykucunun Evi",
+      "condition": "Nostalgic House'a gir"
     },
     "wind_turbine_plateau": {
-      "name": "Memory of the Windy Plateau",
-      "condition": "Find the tower at the Wind Turbine Plateau"
+      "name": "Windy Plateau Hatırası.",
+      "condition": "Wind Turbine Plateau'deki kuleyi bul"
     },
     "strange_being": {
       "name": "Strange Being",
-      "condition": "Threaten the strange metal being at the Polluted Swamp with the Chainsaw effect"
+      "condition": "Polluted Swamp'daki garip metal varlığı Chainsaw efekti ile tehdit et"
     },
     "01": {
       "name": "01-kun",
-      "condition": "Interact with 01-kun in Digital Forest, Bright Forest, Fluorescent Halls, Winter Valley, and Corrupted Love World",
+      "condition": "01-kun ile Digital Forest, Bright Forest, Fluorescent Halls, Winter Valley ve Corrupted Love World'de etkileşime gir",
       "checkbox": {
         "01_digital_forest_1|01_digital_forest_2": "Digital Forest",
         "01_fluorescent_halls": "Fluorescent Halls",
@@ -1112,109 +1112,109 @@
     },
     "tetrapod": {
       "name": "Tetrapod",
-      "condition": "Visit every area of Realistic Beach"
+      "condition": "Realistic Beach'in her bölgesini ziyaret et"
     },
     "stellar_graveyard": {
-      "name": "Stellar Graveyard",
-      "description": "A grave site lost in space",
-      "condition": "Reach the Stellar Mausoleum"
+      "name": "Yıldızların Mezarı",
+      "description": "Uzayda kayıp bir mezarlık",
+      "condition": "Stellar Mausoleum'a ulaş"
     },
     "cat_cemetary": {
-      "name": "Eternal Love",
-      "description": "True love never dies",
-      "condition": "Use the Glasses effect near the grey cat on the bench in the Cat Cemetery"
+      "name": "Ebedi Aşk",
+      "description": "Gerçek aşk asla ölmez",
+      "condition": "Cat Cemetery'de bankdaki gri kedinin yakının Glasses efektini kullan"
     },
     "huyure": {
       "name": "Huyure-chan",
-      "condition": "Visit Huyure-chan at the Dream Beach"
+      "condition": "Dream Beach'de Huyure-chan'ı ziyaret et"
     },
     "lobster": {
       "name": "Get Lobstered",
-      "description": "Lobster? I hardly know her...",
-      "condition": "Enter the pool at the Flooded Baths"
+      "description": "Lobster? Onu pek tanımıyorum...",
+      "condition": "Flooded Baths'deki havuza gir"
     },
     "chandelier": {
-      "name": "Old-fashioned Chandelier",
-      "condition": "Reach the Travel Hotel"
+      "name": "Eski Moda Avize",
+      "condition": "Travel Hotel'e ulaş"
     },
     "red_rock_caves": {
-      "name": "Dream of Roses",
-      "condition": "Complete the Dream of Roses event in the Red Rock Caves"
+      "name": "Güllerin Rüyası",
+      "condition": "Red Rock Caves'deki Dream of Roses olayını tamamla."
     },
     "rainbow_bird": {
-      "name": "Waterfall Bird",
-      "condition": "Use the Rainbow effect at the Lost Creek to summon the bird from Nocturnal Grove and look at it"
+      "name": "Akarsu Kuşu",
+      "condition": "Nocturnal Grove'daki kuşu çağırmak için Lost Creek'de Rainbow efektini kullan ve ona bak"
     },
     "paint": {
-      "name": "Swirly Paint",
-      "condition": "Complete the full sculpture room event in Graveyard World"
+      "name": "Girdaplı Resim",
+      "condition": "Graveyard World'deki full sculpture room olayını tamamla"
     },
     "odorika": {
-      "name": "Streetlight Dance",
-      "description": "She's got good rhythm!",
-      "condition": "Trigger Odorika's full screen dance event with the Maiko effect"
+      "name": "Sokak Lambası Dansı",
+      "description": "Sağlam ritmi var!",
+      "condition": "Odorika'nın full screen dance olayını Maiko efekti ile tetikle"
     },
     "akama": {
-      "name": "Witch Duel",
-      "description": "Tiny witch, big power",
-      "condition": "Defeat Akama in Jigsaw Puzzle World"
+      "name": "Büyücü Düellosu",
+      "description": "Küçük cadı, büyük güç",
+      "condition": "Jigsaw Puzzle World'de Akama'yı yen"
     },
     "snow": {
-      "name": "Festive Snowglobe",
-      "condition": "Pass under the structure at the Riverside Waste Facility while it's snowing"
+      "name": "Şenlikli Kar Küresi",
+      "condition": "Riverside Waste Facility'dekş yapının altından kar yağarken geç"
     },
     "streetlight_scenery": {
-      "name": "Streetlight Scenery",
-      "condition": "Reach the end of the Submerged Communications Area"
+      "name": "Sokak Lambası Manzarası",
+      "condition": "Submerged Communications Area'nın sonuna ulaş"
     },
     "akako": {
       "name": "White Scarlet Akako",
-      "condition": "Show Akako in the White Scarlet Exhibition all of the effects she likes"
+      "condition": "White Scarlet Exhibition'da Akako'ya onun sevdiği tüm efektleri göster"
     },
     "isometry": {
-      "name": "Isometric",
-      "condition": "Visit every area of Isometry World"
+      "name": "İzometrik",
+      "condition": "Isometry World'ün her bölgesini ziyaret et"
     },
     "bowling": {
-      "name": "Strike!",
-      "condition": "Dodge all the bowling ball men in the Bowling Zone and reach Bowling World"
+      "name": "Sayı!",
+      "condition": "Bowling Zone'daki tüm bowling topu adamları atlat ve Bowling World'e ulaş"
     },
     "jade": {
-      "name": "Great City of Jade",
-      "description": "\"I've heard that beyond the great blue sky, there lies a city of jade with riches beyond our imagination.\"",
-      "condition": "Visit the Jade Sky Hamlet"
+      "name": "Büyük, Yeşim Şehri",
+      "description": "\"Duydum ki bu büyük mavi gökyüzünün ardında, akla hayale sığmayacak servete sahip bir Yeşim Şehri var.\"",
+      "condition": "Jade Sky Hamlet'i ziyaret et"
     },
     "sea_star": {
-      "name": "Sea Star",
+      "name": "Deniz Yıldızı",
       "description": "Fun in the sun?",
-      "condition": "Fill the Calcarina Sea"
+      "condition": "Calcarina Sea'yı doldur"
     },
     "alien_cellar": {
-      "name": "Alien Intelligence",
-      "description": "We're afraid that we can't let you go further.",
-      "condition": "Enter the Alien Cellar"
+      "name": "Uzaylı Zekası",
+      "description": "Ne yazık ki daha ileri gitmene izin veremeyiz.",
+      "condition": "Alien Cellar'a gir"
     },
     "sea_monster": {
-      "name": "Lord of the Fluorescent Deep",
-      "description": "The lights are moving...?",
-      "condition": "Encounter the sea monster in the Neon Sea"
+      "name": "Fluorescent Deep'in Lordu",
+      "description": "Işıklar hareket mi ediyor...?",
+      "condition": "Neon Sea'deki su canavarına rastla"
     },
     "mosenite": {
       "name": "Yamato-e",
-      "description": "Passing through a bygone time",
-      "condition": "Go to Heian Era Village"
+      "description": "Geçmişin içinden geçmek",
+      "condition": "Heian Era Village'a git"
     },
     "heart": {
-      "name": "Heart of Health",
-      "condition": "Reach 100 Heart Points from vending machines (granted upon waking up)"
+      "name": "Sağlığın Kalbi",
+      "condition": "Vending machine'leri kullanarak 100 Heart Point'e ulaş (uyandığında verilir)"
     },
     "heart_2": {
-      "name": "Heart of Hope",
-      "condition": "Reach 500 Heart Points from vending machines (granted upon waking up)"
+      "name": "Umudun Kalbi",
+      "condition": "Vending machine'leri kullanarak 500 Heart Point'e ulaş (uyandığında verilir)"
     },
     "heart_3": {
-      "name": "Heart of Life",
-      "condition": "Reach 999 Heart Points from vending machines (granted upon waking up)"
+      "name": "Yaşamın Kalbi",
+      "condition": "Vending machine'leri kullanarak 999 Heart Point'e ulaş (uyandığında verilir)"
     },
     "square_ruins": {
       "name": "Submerged Memory - Luminescent Ruin",
